@@ -7,8 +7,8 @@ In the jupyter notebook, some experiemnts are designed to be applied on [farsi O
 
   1. Regularization techniques
   2. Activation functions
-  3. Number of layer and units
-  4. Initialization
+  3. Number of layers and units
+  4. Weights initialization
 
 affect the result of learning process. In addition, at the end of each section of the notebook, some visualizations on model parameters are requested with proper explanation.
 
