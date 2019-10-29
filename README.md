@@ -1,8 +1,9 @@
 # Multi-layer Perceptron
 
-In this repository, a complete set of Jupyter notebook and python scripts is prepared for investigating almost all critical  factors in designing a Multi-layer Perceptron model.
+This repository contains all the codes for the MLP question in HW3 of [CE-40959: Deep Learning Course](http://ce.sharif.edu/courses/97-98/2/ce959-1/), presented in Sharif University of Technology. In this question, a complete set of Jupyter Notebook and python scripts is prepared for examining almost all critical factors in designing a Multi-layer Perceptron model.
 
 # Usage
+
 In the jupyter notebook, some experiemnts are designed to be applied on [farsi OCR dataset](http://farsiocr.ir/%d9%85%d8%ac%d9%85%d9%88%d8%b9%d9%87-%d8%af%d8%a7%d8%af%d9%87/%d9%85%d8%ac%d9%85%d9%88%d8%b9%d9%87-%d8%a7%d8%b1%d9%82%d8%a7%d9%85-%d8%af%d8%b3%d8%aa%d9%86%d9%88%db%8c%d8%b3-%d9%87%d8%af%db%8c/). As its name implies, it is like famous MNIST dataset but it consists of images of handwritten digits in farsi. By running these experiments, you can figure out how factors of
 
   1. Regularization techniques
