@@ -1,6 +1,6 @@
 # Multi-layer Perceptron
 
-This repository contains all the codes for the MLP question in HW3 of [CE-40959: Deep Learning Course](http://ce.sharif.edu/courses/97-98/2/ce959-1/), presented in Sharif University of Technology. In this question, a complete set of Jupyter Notebook and python scripts is prepared for examining almost all critical factors in designing a Multi-layer Perceptron model.
+This repository contains all the codes for the MLP question in HW3 of [CE-40959: Deep Learning Course](http://ce.sharif.edu/courses/97-98/2/ce959-1/), presented by Dr. Soleymani in Sharif University of Technology. In this question, a complete set of Jupyter Notebook and python scripts is prepared for examining almost all critical factors in designing a Multi-layer Perceptron model.
 
 # Usage
 
